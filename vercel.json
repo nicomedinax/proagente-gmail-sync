@@ -1,11 +1,5 @@
 {
   "version": 2,
-  "crons": [
-    {
-      "path": "/api/cron/sync-emails",
-      "schedule": "0 0 * * *"
-    }
-  ],
   "functions": {
     "api/**/*.js": {
       "maxDuration": 60
