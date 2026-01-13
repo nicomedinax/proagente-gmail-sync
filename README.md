@@ -180,3 +180,4 @@ Cuando se sincronizan emails, el webhook envía:
 ### Los emails no se sincronizan
 - Verifica que el cron esté activo en Vercel (Dashboard > Crons)
 - Revisa los logs en Vercel para errores
+
